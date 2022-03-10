@@ -10,8 +10,8 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Why I took this challenge](#why-I-took-this-challenge)
+  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/frankiecflam/sunnyside-landing-page](https://github.com/frankiecflam/sunnyside-landing-page)
+- Live Site URL: [https://frankie-easybank.netlify.app/](https://frankie-easybank.netlify.app/)
 
 ## My process
 
@@ -67,5 +67,5 @@ Bootstrap performed outstandingly in terms of mobile responsiveness, with tons o
 ## Author
 
 - Email - [Frankie Lam](frankiechunfai@gmail.com)
-- Frontend Mentor - [@frankie___lam](https://www.instagram.com/frankie___lam)
-- Twitter - [@Frankie Lam](https://www.facebook.com/frankiecflam)
+- Instagram - [@frankie___lam](https://www.instagram.com/frankie___lam)
+- Facebook - [@Frankie Lam](https://www.facebook.com/frankiecflam)
