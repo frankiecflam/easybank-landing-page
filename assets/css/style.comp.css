@@ -8504,11 +8504,11 @@ body {
     z-index: -1; }
 
 .features {
-  margin-top: -8rem;
+  margin-top: 0rem;
   z-index: -1; }
   @media (min-width: 992px) {
     .features {
-      margin-top: 0rem; } }
+      margin-top: -8rem; } }
 
 .articles .card {
   height: 100%; }
